@@ -19,8 +19,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.0.x|5.1.x|5.2.x",
-        "opentok/opentok": "dev-hitlabs"
+        "illuminate/support": "5.3.x",
+        "opentok/opentok": "^2.4"
     },
     "autoload": {
         "psr-4": {
